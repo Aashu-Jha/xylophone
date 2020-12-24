@@ -1,4 +1,5 @@
 # xylophone
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+A simple android app to play jaadu tone.
+>>>>>>> 6bdb1ab19db4d8bcbbda9480ee4daecdef92f4cf
